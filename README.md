@@ -1,9 +1,6 @@
 <h1 align="center"></h1>
 <h3 align="center">Hi 👋, I'm Yandi Fenanda, A passionate frontend developer from Indonesia</h3>
 
-![fenanders's Stats](https://github-readme-stats.vercel.app/api?username=fenanders&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![fenanders's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fenanders&theme=merko&hide_border=true)
-
 - 🔭 I’m currently build some magic tricks on **Indonesia Railways Company**
 
 - 🌱 I’m currently learning **Python and Machine Learning**
@@ -21,3 +18,8 @@
 
 <h3 align="left">Cards</h3>
 <a href="https://app.daily.dev/yanndeven"><img src="https://api.daily.dev/devcards/v2/QqG1DeAg8Yaiudb1NqWo8.png?type=wide&r=5kf" width="652" alt="Yandi Fenanda's Dev Card"/></a>
+
+<h3 align="left">Github Stats</h3>
+
+![fenanders's Stats](https://github-readme-stats.vercel.app/api?username=fenanders&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![fenanders's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fenanders&theme=merko&hide_border=true)
