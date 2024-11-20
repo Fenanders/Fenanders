@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-<h3 align="center">Hi 👋, I'm Yandi Fenanda, A passionate frontend developer from Indonesia</h3>
+<h3 align="center">Hi 👋, I'm Yandi Fenanda, A passionate full stack developer from Indonesia</h3>
 
 - 🔭 I’m currently build some magic tricks on **Indonesia Railways Company**
 
