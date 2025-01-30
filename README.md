@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 📫 How to reach me **yandifenanda.247@gmail.com**
+- 📫 How to reach me **yandi.fenanda247@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
